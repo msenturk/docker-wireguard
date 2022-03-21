@@ -59,8 +59,8 @@ RUN \
 	/var/tmp/*
 
 # add local files
-COPY /root /
-COPY /lib/modules /lib/modules
+#COPY /root /
+#COPY /lib/modules /lib/modules
 
 
 # ports and volumes
