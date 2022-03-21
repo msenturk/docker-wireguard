@@ -59,7 +59,7 @@ RUN \
 	/var/tmp/*
 
 # add local files
-#COPY /root /
+COPY /root /
 #COPY /lib/modules /lib/modules
 
 
